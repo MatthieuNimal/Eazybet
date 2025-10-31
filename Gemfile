@@ -59,7 +59,7 @@ group :development, :test do
   gem "dotenv-rails"
 
   # tests
-  gem "rspec-rails", "~> 7.0.0"
+  gem "rspec-rails", "~> 8.0.2"
   gem "factory_bot_rails"
 end
 
